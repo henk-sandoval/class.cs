@@ -11,6 +11,7 @@ using System.Text;
 using System.Configuration;
 class Conexion
     {
+        //henk
         public static SqlConnection SqlCon;
         public static SqlCommand cmd;       //EL COMANDO LO CREAMOS PUBLICO PARA USARLO EN LA PAGINA ORIGEN
         public Conexion()
